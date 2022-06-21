@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://prsshh.github.io/tech/hash/</loc>
+    <lastmod>2022-06-21T13:32:21+08:00</lastmod>
+  </url><url>
     <loc>https://prsshh.github.io/</loc>
-    <lastmod>2022-03-16T17:13:12+08:00</lastmod>
+    <lastmod>2022-06-21T13:32:21+08:00</lastmod>
+  </url><url>
+    <loc>https://prsshh.github.io/tech/</loc>
+    <lastmod>2022-06-21T13:32:21+08:00</lastmod>
   </url><url>
     <loc>https://prsshh.github.io/life/</loc>
     <lastmod>2022-03-16T17:13:12+08:00</lastmod>
@@ -33,9 +39,6 @@
     <lastmod>2022-02-27T21:27:45+08:00</lastmod>
   </url><url>
     <loc>https://prsshh.github.io/tags/</loc>
-    <lastmod>2022-02-27T21:27:45+08:00</lastmod>
-  </url><url>
-    <loc>https://prsshh.github.io/tech/</loc>
     <lastmod>2022-02-27T21:27:45+08:00</lastmod>
   </url><url>
     <loc>https://prsshh.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
