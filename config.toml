@@ -3,7 +3,7 @@ publishDir = "docs"
 ##########################################
 # 站点配置
 
-baseURL = "https://prsshh.github.io/"
+baseURL = "https://ush11o.github.io/"
 title = "HH"
 languageCode = "zh-CN"
 hasCJKLanguage = true
